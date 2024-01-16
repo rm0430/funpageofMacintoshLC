@@ -1,6 +1,7 @@
 Macintosh LC
 ======
 **Macintosh LC** came out on October 1990, from the *Apple*.
+
 ***
 
 |  | Macintosh LC | Macbook Air 2022 |
