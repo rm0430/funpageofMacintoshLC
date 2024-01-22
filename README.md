@@ -19,7 +19,8 @@ Macintosh LC
 - affordable price
 - retro vibe🥹
 
-![image](Machintosh_LC-1024x768.webp)
+![1200px-Apple_Museum_(Prague)_Macintosh_LC_(1990)_(cropped)](https://github.com/rm0430/funpageofMacintoshLC/assets/156184217/cd2ffa15-ce01-4143-8ed8-58112e7d6d5f)
+
 
 [Macintosh LC Youtube video](https://www.youtube.com/watch?v=dCqJ6iPHus0)
  
