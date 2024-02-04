@@ -25,10 +25,9 @@ Macintosh LC
 ---
 
 
-<a href="https://www.youtube.com/watch?v=dCqJ6iPHus0"><img src="https://github.com/rm0430/funpageofMacintoshLC/assets/156184217/ac7f4535-ab05-43e9-b651-79cc87637335" alt="Youtube videos" width="500">
+[![Machintosh LC](https://github.com/rm0430/funpageofMacintoshLC/assets/156184217/04dfd43d-c2dc-4ea0-9850-49c39e299e40)](https://www.youtube.com/watch?v=watch?v=dCqJ6iPHus0)
 
-[Macintosh LC Youtube video](https://www.youtube.com/watch?v=dCqJ6iPHus0)
- 
+
 > Source:
 [Apple page](https://support.apple.com/kb/sp205?locale=en_US)
 [Wikipedia page](https://en.wikipedia.org/wiki/Macintosh_LC)
