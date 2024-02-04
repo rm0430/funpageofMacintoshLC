@@ -22,6 +22,8 @@ Macintosh LC
 <img src="https://github.com/rm0430/funpageofMacintoshLC/assets/156184217/f1eadb5b-c30f-4eef-ab3c-2206e7f0c77a" alt="machintoshlc" width="350">
 <img src="https://github.com/rm0430/funpageofMacintoshLC/assets/156184217/ade9a894-4c54-4286-a4ac-ca6be5f28087" alt="computer" width="320">
 
+---
+
 <a href="https://www.youtube.com/watch?v=dCqJ6iPHus0"><img src="https://github.com/rm0430/funpageofMacintoshLC/assets/156184217/ac7f4535-ab05-43e9-b651-79cc87637335" alt="Youtube videos" width="500">
 
 [Macintosh LC Youtube video](https://www.youtube.com/watch?v=dCqJ6iPHus0)
