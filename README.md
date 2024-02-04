@@ -25,7 +25,7 @@ Macintosh LC
 ---
 
 
-[![Machintosh LC](https://github.com/rm0430/funpageofMacintoshLC/assets/156184217/04dfd43d-c2dc-4ea0-9850-49c39e299e40)](https://www.youtube.com/watch?v=watch?v=dCqJ6iPHus0)
+[![Machintosh LC](https://github.com/rm0430/funpageofMacintoshLC/assets/156184217/04dfd43d-c2dc-4ea0-9850-49c39e299e40)](https://www.youtube.com/watch?v=dCqJ6iPHus0)
 
 
 > Source:
