@@ -29,5 +29,7 @@ Macintosh LC
 
 
 > Source:
+> 
 [Apple page](https://support.apple.com/kb/sp205?locale=en_US)
+> 
 [Wikipedia page](https://en.wikipedia.org/wiki/Macintosh_LC)
