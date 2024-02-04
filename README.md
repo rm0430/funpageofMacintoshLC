@@ -24,6 +24,7 @@ Macintosh LC
 
 ---
 
+
 <a href="https://www.youtube.com/watch?v=dCqJ6iPHus0"><img src="https://github.com/rm0430/funpageofMacintoshLC/assets/156184217/ac7f4535-ab05-43e9-b651-79cc87637335" alt="Youtube videos" width="500">
 
 [Macintosh LC Youtube video](https://www.youtube.com/watch?v=dCqJ6iPHus0)
